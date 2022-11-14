@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=bogyie)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bogyie&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bogyie&show_icons=true&count_private=true&hide_border=true)
 
 <!--
 **Bogyie/Bogyie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
