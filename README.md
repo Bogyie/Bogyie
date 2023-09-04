@@ -1,5 +1,1 @@
-![img](metrics.classic.svg)
-
-![img](metrics.plugin.achievements.svg)
-
-![img](metrics.plugin.languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogyie&show_icons=true)
